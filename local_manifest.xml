@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="vendor/samsung/m10lte" name="n7105/android_vendor_samsung_m10lte" remote="github" revision="main" />
+
+</manifest>
